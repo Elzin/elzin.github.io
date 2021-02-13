@@ -45,10 +45,29 @@ nav{
     transform: scale(1.08) ;
 
 }
-h1{
+#logo{
     
     font-family: 'Press Start 2P' , sans-serif ;
     color: #3772FF ;
     text-shadow: 4px 4px 0px #000000;
     
+}
+#identificar{
+    font-family: 'Press Start 2P' , sans-serif;
+    display: block;
+    background-color: #3A4042;
+    text-align: center;
+    margin: 106px 480px ;
+    width: 627px;
+    height: 184px;
+    text-shadow: 4px 4px 0px #000000;
+    padding-top: 20px;
+    line-height: 50px;
+
+}
+#nome{
+    color:#F25A70;
+}
+#frontend{
+    color:#FFFFFF;
 }
