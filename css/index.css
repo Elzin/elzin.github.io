@@ -53,21 +53,19 @@ nav{
     
 }
 #identificar{
-    font-family: 'Press Start 2P' , sans-serif;
-    display: block;
+    display: flex;
     background-color: #3A4042;
     text-align: center;
-    margin: 106px 480px ;
+    font-family: 'Press Start 2P' , sans-serif;
     width: 627px;
     height: 184px;
-    text-shadow: 4px 4px 0px #000000;
+    box-shadow: 8px 8px 0px #000000;
     padding-top: 20px;
-    line-height: 50px;
+    line-height: 80px;
+    flex-direction: column ;
+    text-shadow: 4px 4px 0px #000000;
+}
 
-}
-#nome{
-    color:#F25A70;
-}
 #frontend{
     color:#FFFFFF;
 }
