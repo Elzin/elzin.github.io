@@ -7,3 +7,11 @@
     line-height: 80px;
     
 }
+
+.box .subtitle{
+    text-shadow: 4px 4px 0px #000000;
+}
+
+.box .title{
+    text-shadow: 4px 4px 0px #000000;
+}
